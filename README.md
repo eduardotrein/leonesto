@@ -17,3 +17,6 @@ git push -u origin teste
 git push -u origin master
 
 
+# Salvar senha para um repositorio
+git config credential.helper store
+git push https://github.com/eduardotrein/leonesto.git
