@@ -1,4 +1,5 @@
 # leonesto
+<<<<<<< HEAD
 Instruções
 
 cd /home/eduardo/Documentos/Estudo/git
@@ -17,3 +18,7 @@ git push -u origin teste
 git push -u origin master
 
 
+=======
+Adicionando nova linha
+Adiconando uma terceira linha
+>>>>>>> 226ad9e3c8011c6f810c3a28b81ef3c1c7b425cc
