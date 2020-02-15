@@ -1,0 +1,2 @@
+data,fluxo,tipo,duracao
+2020-01-02,fluxo_teste,fluxo,203999990
